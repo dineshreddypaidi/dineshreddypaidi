@@ -9,7 +9,7 @@
 - 💬 Ask me about **Entrepreneurship**
 - 📫 How to reach me: **my social links**
 - 😄 Pronouns: **He/Him** / **coder**
-- ⚡ Fun fact: **i how how to center a div**
+- ⚡ Fun fact: **i know how to center a div**
 <hr>
 
 ## Views
